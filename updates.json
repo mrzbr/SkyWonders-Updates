@@ -1,0 +1,25 @@
+{
+  "title": "What's new?",
+  "sections": [
+    {
+      "header": "Main Menu Version 0.1:",
+      "items": [
+        "+Updates",
+        "+Level Select",
+        "+Options"
+      ]
+    },
+    {
+      "header": "Player Version 0.1:",
+      "items": [
+        "+All core movement mechanics"
+      ]
+    },
+    {
+      "header": "General:",
+      "items": [
+        "+Volumetric lighting package"
+      ]
+    }
+  ]
+}
