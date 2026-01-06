@@ -4,22 +4,24 @@
     {
       "header": "Main Menu Version 0.1:",
       "items": [
-        "+Updates",
-        "+Level Select",
-        "+Options"
+        "Updates",
+        "Level Select",
+        "Options"
       ]
     },
     {
       "header": "Player Version 0.1:",
       "items": [
-        "+All core movement mechanics"
+        "All core movement mechanics",
+        "bonkers cosmetic has been added"
       ]
     },
     {
       "header": "General:",
       "items": [
-        "+Volumetric lighting package"
+        "Volumetric lighting package"
       ]
     }
   ]
 }
+
