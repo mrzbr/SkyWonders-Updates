@@ -19,11 +19,21 @@
     {
       "header": "General:",
       "items": [
-        "Volumetric lighting package"
+        "Volumetric lighting package",
+        "Added a new UI",
+        "New Oxygen System"
+      ]
+    },
+    {
+      "header": "Store:",
+      "items": [
+        "New Hat Cosmetics",
+        "New Naruto Bundle"
       ]
     }
   ]
 }
+
 
 
 
